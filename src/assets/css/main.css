@@ -1,0 +1,30 @@
+
+#app {
+    font-family: 'Merriweather', serif;
+}
+.router-link-exact-active {
+    font-weight: bold;
+}
+.btn-success {
+    background-color: #00FFB2;
+}
+.badge-success {
+    background-color: #00FFB2;
+}
+.primary-text {
+    color: #00FFB2;
+}
+.card-product{
+    border-radius:15px;
+}
+.card-img-top{
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.breadcrumb-item.active {
+    font-weight: bold;
+    color: black;
+}
+.img-fluid{
+    border-radius: 15px;
+}
